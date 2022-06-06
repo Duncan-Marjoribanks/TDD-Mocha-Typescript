@@ -1,5 +1,5 @@
-describe("server-checks", function() {
-    it("server is created without error", function(){
+describe("index-checks", function() {
+    it("index is created without error", function(){
         console.log('hi from the index file');
     });
 
